@@ -1,5 +1,5 @@
 {
-  "buildCommand": "yarn && yarn build:app",
+  "buildCommand": "yarn && yarn build",
   "outputDirectory": "build",
   "framework": "other"
 }
