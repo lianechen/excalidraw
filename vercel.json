@@ -1,4 +1,9 @@
 {
   "buildCommand": "yarn build",
-  "outputDirectory": "build"
+  "outputDirectory": "build",
+  "functions": {
+    "api/save.ts": {
+      "runtime": "vercel-node@18"
+    }
+  }
 }
